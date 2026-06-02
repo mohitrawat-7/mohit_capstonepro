@@ -8,7 +8,8 @@ Steps followed in the Project:
 3) 1st Model Training: Linear Regression
 4) 2nd Model Training: XGBoost
 
-Correlation Analysis:(https://github.com/mohitrawat-7/mohit_capstonepro/blob/main/output.png)
+Correlation Analysis:
+![alt_text](https://github.com/mohitrawat-7/mohit_capstonepro/blob/main/output.png)
 
 Linear Regression Result: (https://github.com/mohitrawat-7/mohit_capstonepro/blob/main/LR%20output.png)
 
