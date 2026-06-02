@@ -11,6 +11,8 @@ Steps followed in the Project:
 Correlation Analysis:
 ![alt_text](https://github.com/mohitrawat-7/mohit_capstonepro/blob/main/output.png)
 
-Linear Regression Result: (https://github.com/mohitrawat-7/mohit_capstonepro/blob/main/LR%20output.png)
+Linear Regression Result: 
+![](https://github.com/mohitrawat-7/mohit_capstonepro/blob/main/LR%20output.png)
 
-XGBoost Output: (https://github.com/mohitrawat-7/mohit_capstonepro/blob/main/XGboost%20output.png)
+XGBoost Output: 
+![](https://github.com/mohitrawat-7/mohit_capstonepro/blob/main/XGboost%20output.png)
