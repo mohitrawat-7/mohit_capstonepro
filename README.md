@@ -15,4 +15,5 @@ Linear Regression Result:
 ![](https://github.com/mohitrawat-7/mohit_capstonepro/blob/main/LR%20output.png)
 
 XGBoost Output: 
+
 ![](https://github.com/mohitrawat-7/mohit_capstonepro/blob/main/XGboost%20output.png)
